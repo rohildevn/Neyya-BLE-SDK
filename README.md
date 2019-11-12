@@ -1,4 +1,4 @@
-# Neyya Android SDK
+# Neyya Smart Ring BLE (Bluetooth) Android SDK
 
 Neyya SDK can be used to communicate with Neyya Ring (www.myneyya.com). All you wanted to do is checkout the project and import the sdk module to your application and start communicating to ring.
 
@@ -45,4 +45,4 @@ You can run the test suite by following the instructions on the [Running the Tes
 
 ## Author
 
-Zacharias Manuel | www.zachariasmanuel.com | www.myneyya.com
+Zacharias Manuel | www.zachariasmanuel.com | Fin Robotics
